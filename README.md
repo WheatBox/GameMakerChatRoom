@@ -6,5 +6,5 @@
 
 编译后的文件的下载地址：https://wheatbox.lanzoup.com/ibzFXxxssif
 
-顺带一提文本框的代码是网上找的，这么久过去了，在哪找的我也忘了，大家去GameMaker的商城里找找看应该能找到
+文本框的代码是用的这一位UP主的源码：https://www.bilibili.com/video/BV1qP4y1s7jt
 
